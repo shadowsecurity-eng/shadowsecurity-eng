@@ -3,6 +3,9 @@
 Security enthusiast | CTF player  
 Sometimes old things are not really deleted…
 
+Blog sayfası Linki: 🌐 Blog: https://shadowsecurity.hashnode.dev
+
+
 
 <!--
 **shadowsecurity-eng/shadowsecurity-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
